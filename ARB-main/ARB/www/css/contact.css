@@ -1,0 +1,25 @@
+
+body{
+	background-color: rgb(24, 20, 20);
+	font-family: 'Bahnschrift', sans-serif;
+	font-weight: 700;
+	font-style: normal;}
+.header{
+	font-family: open-sans,sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	font-size: large;
+}
+.homebutton{
+	align-self: center;
+	background-color: #f44336;
+	margin: 10px;
+  color: white;
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+.normaltext{
+	color: white;
+}
